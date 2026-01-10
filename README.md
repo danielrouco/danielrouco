@@ -1,1 +1,1 @@
-![](https://github-readme-stats-gray-theta-79.vercel.app/api/top-langs/?username=danielrouco&langs_count=16&card_width=500&theme=one_dark_pro&hide_border=true&title_color=ffffff&text_color=ffffff&layout=compact&hide_title=false?)
+![](https://github-readme-stats-gray-theta-79.vercel.app/api/top-langs/?username=danielrouco&langs_count=28&card_width=500&theme=one_dark_pro&hide_border=true&title_color=ffffff&text_color=ffffff&layout=compact&hide_title=false?)
